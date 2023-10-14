@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tenshi/solutions/ecobot/ecobotapi/ecobotapi/ecobotapi.csproj": {}
+  },
+  "projects": {
+    "/home/tenshi/solutions/ecobot/ecobotapi/ecobotapi/ecobotapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotapi/ecobotapi.csproj",
+        "projectName": "ecobotapi",
+        "projectPath": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotapi/ecobotapi.csproj",
+        "packagesPath": "/home/tenshi/.nuget/packages/",
+        "outputPath": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotapi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tenshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/ecobotdb.csproj": {
+                "projectPath": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/ecobotdb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.11, 7.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/ecobotdb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/ecobotdb.csproj",
+        "projectName": "ecobotdb",
+        "projectPath": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/ecobotdb.csproj",
+        "packagesPath": "/home/tenshi/.nuget/packages/",
+        "outputPath": "/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tenshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.11, 7.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

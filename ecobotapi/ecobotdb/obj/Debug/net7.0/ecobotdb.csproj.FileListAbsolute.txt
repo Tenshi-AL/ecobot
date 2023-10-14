@@ -1,0 +1,14 @@
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/bin/Debug/net7.0/ecobotdb.deps.json
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/bin/Debug/net7.0/ecobotdb.runtimeconfig.json
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/bin/Debug/net7.0/ecobotdb.dll
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/bin/Debug/net7.0/ecobotdb.pdb
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.csproj.AssemblyReference.cache
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.GeneratedMSBuildEditorConfig.editorconfig
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.AssemblyInfoInputs.cache
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.AssemblyInfo.cs
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.csproj.CoreCompileInputs.cache
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.dll
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/refint/ecobotdb.dll
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.pdb
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ecobotdb.genruntimeconfig.cache
+/home/tenshi/solutions/ecobot/ecobotapi/ecobotdb/obj/Debug/net7.0/ref/ecobotdb.dll
